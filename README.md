@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Cabrera (the Wise Engineer)</h1>
 <h3 align="center">A Passionate Software Developer with 5+ Years of Experience</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
