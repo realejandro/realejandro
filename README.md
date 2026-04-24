@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-🔹 I'm a software developer with **5 years of hands-on experience** building scalable web and mobile applications.
+🔹 I'm a software developer with **3 years of hands-on experience** building scalable web and mobile applications.
 
 🔹 Skilled in writing clean, maintainable code using **modern frameworks and languages**.
 
